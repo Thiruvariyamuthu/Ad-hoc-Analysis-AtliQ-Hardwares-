@@ -122,7 +122,7 @@ If the total sold quantity exceeds **5 million units**, the market is considered
 🔗 [View SQL Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_3_stored_proc_for_market_badge.sql)
 
 ### 📊 Output Preview  
-Below is the sample output for different markets and fiscal years:  
+Below is the sample output for market Inadia for fiscal_year 2021:  
 ![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_3_stored_proc_out_put.png)
 ![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_3_stored_proc_out_put%20(2).png)
 
