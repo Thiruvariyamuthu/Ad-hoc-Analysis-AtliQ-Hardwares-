@@ -1,6 +1,8 @@
 # Ad-hoc-Analysis-AtliQ-Hardwares-
 SQL Ad-hoc Analysis Project for AtliQ Hardwares using MySQL
 
+🎥 **[Watch Video Explanation](https://youtu.be/LpUxINJCL3U?si=YtJn95vtaKGic7_s)**  
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/thiruvariyamuthu/)**  
 
 # 💼 Ad-hoc-Analysis-AtliQ-Hardwares
 
