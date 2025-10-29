@@ -49,5 +49,5 @@ This project uses multiple tables from the AtliQ Hardwares database (gdb0041) to
 ### 📸 Dataset Preview  
 
 *(Database tables from gdb0041)*  
-![Dataset Preview]
+![Dataset Preview](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/datasets.png)
 
