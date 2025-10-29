@@ -101,7 +101,7 @@ Now, by simply entering the **customer code**, the report is automatically gener
 
 ### 📊 Sample Output (Amazon Example)  
 Below is an example of the stored procedure output when the input is set for **Amazon**:  
-![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_2_stored_proc_get_monthly_gross_sales_report.png)
+![Iutput](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_2_stored_proc_get_monthly_gross_sales_report.png)
 ![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_2_stored_proc_get_monthly_gross_sales_report%20(2).png)
 
 
@@ -150,8 +150,8 @@ I created **three separate stored procedures** to fetch the **top markets**, **t
 🔗 [View Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_4_stored_proc_for_get_top_n_markets_by_netsales.sql)
 
 📊 *Output:*  
-![Top Markets Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_markets_by_netsales.png) 
-![Top Markets Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_markets_by_netsales%20(2).png)
+![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_markets_by_netsales.png) 
+![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_markets_by_netsales%20(2).png)
 
 ---
 
@@ -159,8 +159,8 @@ I created **three separate stored procedures** to fetch the **top markets**, **t
 🔗 [View Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_4_stored_proc_for_get_top_n_products_by_netsales.sql)
 
 📊 *Output:*  
-![Top Products Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_products_by_netsales.png)
-![Top Products Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_products_by_netsales%20(2).png)
+![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_products_by_netsales.png)
+![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_products_by_netsales%20(2).png)
 
 ---
 
@@ -168,8 +168,8 @@ I created **three separate stored procedures** to fetch the **top markets**, **t
 🔗 [View Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_4_stored_proc_for_get_top_n_customers_by_netsales.sql)
 
 📊 *Output:*  
-![Top Customers Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_customers_by_netsales.png)
-![Top Customers Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_customers_by_netsales%20(2).png)
+![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_customers_by_netsales.png)
+![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_customers_by_netsales%20(2).png)
 
 ---
 
@@ -239,13 +239,13 @@ To make this reusable, I created a **stored procedure** that dynamically takes t
 
 ### 🧩 Input Example  
 📸 *Passing parameters to the stored procedure:*  
-![Adhoc 6 Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_6_stored_proc_get_top_n_products_by_division_by_sold_qty.png)
+![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_6_stored_proc_get_top_n_products_by_division_by_sold_qty.png)
 
 ---
 
 ### 📊 Output Preview  
 📸 *Generated output showing top N products by division:*  
-![Adhoc 6 Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_6_stored_proc_get_top_n_products_by_division_by_sold_qty%20(2).png)
+![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_6_stored_proc_get_top_n_products_by_division_by_sold_qty%20(2).png)
 
 ---
 
@@ -291,10 +291,10 @@ It takes the fiscal year as input and outputs the **forecast accuracy %** based 
 ### 🖥️ Procedure Execution  
 
 📥 **Input:** Fiscal Year (e.g., `2021`)  
-![Adhoc 7 Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_7_stored_proc_for_get_forecast_accuracy.png)
+![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_7_stored_proc_for_get_forecast_accuracy.png)
 
 📤 **Output:** Forecast accuracy report with all customer details  
-![Adhoc 7 Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_7_stored_proc_for_get_forecast_accuracy%20(2).png)
+![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_7_stored_proc_for_get_forecast_accuracy%20(2).png)
 
 ---
 
