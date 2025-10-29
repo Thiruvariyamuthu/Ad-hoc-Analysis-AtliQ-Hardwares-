@@ -216,10 +216,6 @@ After verifying the results, I exported the data to Excel and created a **bar ch
 The analysis highlights which customers contributed the most to the company’s total net sales in FY-2021, helping identify top revenue drivers for better business planning.
 
 
-### 💡 Key Insight  
-The visualization makes it easy to compare performance across markets at a glance — highlighting which markets drive the majority of global sales.  
-This analysis helps prioritize **high-performing regions** and identify **growth opportunities** in underperforming ones.
-
 ## 🧾 Ad Hoc Request 6 — Top N Products by Quantity Sold (Per Division)
 
 ### 📄 Problem Statement  
