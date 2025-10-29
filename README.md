@@ -271,6 +271,7 @@ To achieve this, I first created a new table called **`fact_act_est`** by combin
 - Then, I updated all **NULL values to 0**, as instructed by the product owner.
 
 🔗 [View Table Creation & Data Cleaning Queries](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_7_query_used_to_create_the_fact_act_est_table.sql)
+
 📸 *Transformed table preview (`fact_act_est`):*  
 ![fact_act_est Table](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/fact_act_est.png)
 
