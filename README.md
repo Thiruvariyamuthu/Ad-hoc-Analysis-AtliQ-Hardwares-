@@ -151,7 +151,7 @@ I created **three separate stored procedures** to fetch the **top markets**, **t
 #### 🥇 Stored Procedure 1 — Top Markets by Net Sales  
 🔗 [View Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_4_stored_proc_for_get_top_n_markets_by_netsales.sql)
 
-📊 *Output:*  
+📊 *📊 Below is the sample output when fiscal_year = 2021 and top_n = 3:*  
 ![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_markets_by_netsales.png) 
 ![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_markets_by_netsales%20(2).png)
 
@@ -160,7 +160,7 @@ I created **three separate stored procedures** to fetch the **top markets**, **t
 #### 🧴 Stored Procedure 2 — Top Products by Net Sales  
 🔗 [View Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_4_stored_proc_for_get_top_n_products_by_netsales.sql)
 
-📊 *Output:*  
+📊 *📊 Below is the sample output when fiscal_year = 2021 and top_n = 5*  
 ![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_products_by_netsales.png)
 ![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_products_by_netsales%20(2).png)
 
@@ -169,7 +169,7 @@ I created **three separate stored procedures** to fetch the **top markets**, **t
 #### 👥 Stored Procedure 3 — Top Customers by Net Sales  
 🔗 [View Query](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/queries/adhoc_4_stored_proc_for_get_top_n_customers_by_netsales.sql)
 
-📊 *Output:*  
+📊 *📊 Below is the sample output when fiscal_year = 2021 and top_n = 5:*  
 ![Input](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_customers_by_netsales.png)
 ![Output](https://github.com/Thiruvariyamuthu/Ad-hoc-Analysis-AtliQ-Hardwares-/blob/main/AtliQ-Adhoc-Analysis/assets/adhoc_4_get_top_n_customers_by_netsales%20(2).png)
 
